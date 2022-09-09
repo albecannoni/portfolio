@@ -31,7 +31,8 @@ img {
     --colore1: #4a4453;
     --colore2: #00536c;
     --colore3: #845EC2;
-    --colore4: #372b4a;
+    /* --colore4: #372b4a; */
+    --colore4: #def22a;
     --accento: #D2F4CC;
     --fondino: rgba(210, 244, 204, 0.15);
     --testo: rgba(254, 255, 249, 1);
