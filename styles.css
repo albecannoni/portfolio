@@ -6,6 +6,15 @@
 
 }
 
+
+.container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#9dadbc;
+}
 html {
     font-size: 16px;
     height: 100vh;
