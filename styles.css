@@ -150,7 +150,7 @@ nav {
     text-align: center;
 }
 
-/*centratura con Flexbox*/
+/* centratura con Flexbox */
 .fcx {
     display: flex;
     justify-content: center;
